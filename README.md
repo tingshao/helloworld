@@ -1,26 +1,15 @@
 # Librealsense2 node.js wrapper
-
 `node-librealsense2` is a node.js wrapper of the library working with Intel® RealSense™ depth cameras (D400 series and the SR300).
 
 # Install from npmjs.com
-
 ```
 $ npm i --save node-librealsense2
 ```
 
 # Install from source
-
 ## Install Prerequisites
-
-### On Ubuntu16.04
-  * Install node.js
-  * Install node-gyp
-
-### On Windows 10
-  * Install node.js
-  * Install node-gyp
-  * Install windows-build-tools
-
+  * Install [node.js](https://nodejs.org/)
+  * Install [node-gyp](https://github.com/nodejs/node-gyp)
 ## Install node-librealsense2
 ```
 git clone ...
