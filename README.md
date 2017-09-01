@@ -1,5 +1,3 @@
-node-librealsense2
-=========
 # Librealsense2 node.js wrapper
 
 `node-librealsense2` is a node.js wrapper of the library working with Intel® RealSense™ depth cameras (D400 series and the SR300).
