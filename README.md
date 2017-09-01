@@ -13,8 +13,13 @@ $ npm i --save node-librealsense2
 ## Install Prerequisites
 
 ### On Ubuntu16.04
+  * Install node.js
+  * Install node-gyp
 
 ### On Windows 10
+  * Install node.js
+  * Install node-gyp
+  * Install windows-build-tools
 
 ## Install node-librealsense2
 ```
