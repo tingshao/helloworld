@@ -19,9 +19,11 @@ npm install
 
 ## Examples
 ```
-cd wrappers/nodejs/examples
-npm install
-node nodejs-capture.js
+$ cd wrappers/nodejs/examples
+$ npm install
+
+# Plugin the camera into you machine and run below commands to see if it works
+$node nodejs-capture.js
 ```
 
 ## Document
